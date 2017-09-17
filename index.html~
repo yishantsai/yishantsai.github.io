@@ -805,7 +805,7 @@ h1{
             </div>
             <div class="col" ontouchstart="this.classList.toggle('hover');">
                 <div class="container">
-                    <div class="front" style="background-image: url(images/3-1.jpg)">
+                    <div class="front" style="background-image: url(https://unsplash.it/502/502/)">
                         <div class="inner">
                             <p>黃榮俊</p>
               <span>特聘教授</span>
@@ -846,7 +846,7 @@ h1{
             </div>
             <div class="col" ontouchstart="this.classList.toggle('hover');">
                 <div class="container">
-                    <div class="front" style="background-image: url(images/4-1.jpg)">
+                    <div class="front" style="background-image: url(https://unsplash.it/503/503/)">
                         <div class="inner">
                             <p>林明發</p>
               <span>特聘教授</span>
@@ -887,7 +887,7 @@ h1{
             </div>
             <div class="col" ontouchstart="this.classList.toggle('hover');">
                 <div class="container">
-                    <div class="front" style="background-image: url(images/5-1.jpg)">
+                    <div class="front" style="background-image: url(https://unsplash.it/504/504/">
                         <div class="inner">
 				<p>陳家駒</p>
               <span>特聘教授</span>
@@ -928,7 +928,7 @@ h1{
             </div>
             <div class="col" ontouchstart="this.classList.toggle('hover');">
                 <div class="container">
-                    <div class="front" style="background-image: url(images/6-1.jpg)">
+                    <div class="front" style="background-image: url(https://unsplash.it/505/505/)">
                         <div class="inner">
                             <p>呂欽山</p>
               <span>特聘教授</span>
@@ -969,7 +969,7 @@ h1{
             </div>
             <div class="col" ontouchstart="this.classList.toggle('hover');">
                 <div class="container">
-                    <div class="front" style="background-image: url(images/7-1.jpg)">
+                    <div class="front" style="background-image: url(https://unsplash.it/506/506/)">
                         <div class="inner">
                             <p>黃文宏</p>
               <span>教授</span>
@@ -1010,7 +1010,7 @@ h1{
             </div>
             <div class="col" ontouchstart="this.classList.toggle('hover');">
                 <div class="container">
-                    <div class="front" style="background-image: url(images/8-1.jpg)">
+                    <div class="front" style="background-image: url(https://unsplash.it/508/508/)">
                         <div class="inner">
                             <p>許瑞榮</p>
               <span>教授</span>
